@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P2GOL</string>
+    <string name="sig1">SIGUIENTE</string>
+    <string name="reg">REGRESA</string>
+    <string name="menu">MENÚ PRINCIPAL</string>
+    <string name="pa2">PANTALLA 2</string>
+    <string name="pa3">OPERACIONES BASICAS</string>
+</resources>
